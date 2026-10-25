@@ -1,0 +1,4 @@
+Lisoé - dossier à envoyer tel quel sur GitHub.
+index.html = l'application
+manifest.webmanifest + icones = installation sur l'écran d'accueil
+.nojekyll = fichier vide, laisse-le
